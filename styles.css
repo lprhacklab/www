@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&family=Poppins:wght@200;400;600&display=swap'); 
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: bisque;
+}
+.infobanner {
+    background-color: bisque;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    padding: 10px;
+}
+
+.header1 {
+    background-image: url(./wallpaper2@2x.png);
+    margin: 0px;
+    padding: 0%;
+    width: 100%;
+    min-height: 450px;
+    background-position: center;
+    background-size: cover;
+}
+
+.headerlinks {
+    padding: 10px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    background-color: #FFB950;
+    text-align: center;
+}
+
+.contentblock {
+    margin: 20px;
+    padding: 10px;
+    background-color: #FFB950;
+    border-radius: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
